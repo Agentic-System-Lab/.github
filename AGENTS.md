@@ -16,7 +16,8 @@ switch to this one). The repository is public, so every file in it is public too
 
 - `profile/README.md` says what the homepage says: [agentic-system-lab.github.io](https://agentic-system-lab.github.io/)
   (`index.html` and `zh/index.html` in the homepage's repo, which is named after its domain). A change to a project's
-  description, the study group or "How we work" goes into the profile and both pages. When a project goes public, add
+  description, the study group, the talk notes, the learning-organization playbook or "How we work" goes into the
+  profile and both pages. When a project goes public, add
   it to all three and take it out of the "on the way" sentence. That one sentence covers every tool not public yet, so
   remove it only when none is left.
 - The profile is in English; it links to the Chinese homepage and to each project's Chinese README.
