@@ -26,6 +26,13 @@ More tools are on the way: one for prototyping a new agentic system from an idea
 
 Agent Atlas strings seven courses from CMU, Stanford and Harvard into one learning path for AI agents, in 12 units. It starts with building an agent and checking what it can do, and goes on to shipping software and improving it over time. The study group follows this path, meets online and keeps shared notes. Sessions are in Traditional Chinese. Agent Loop Visualizer is the hands-on companion to Unit 01.
 
+### [AI Engineering Talks](https://agentic-system-lab.github.io/ai-talk-notes/)
+
+Notes on conference and YouTube talks about AI engineering, sorted into 9 categories, from BI and the semantic layer to agent evaluation, context and memory, and model training. Each talk has a short summary of its key points, with its full notes a click away and a link to the video. Nine insights draw on all the talks together, and you can save a sentence from any talk's notes as your own note, kept in your browser.
+
+- [Read the talk notes](https://agentic-system-lab.github.io/ai-talk-notes/) ([繁體中文](https://agentic-system-lab.github.io/ai-talk-notes/index.zh.html))
+- [Source on GitHub](https://github.com/Agentic-System-Lab/ai-talk-notes): README in English and [繁體中文](https://github.com/Agentic-System-Lab/ai-talk-notes/blob/main/README.zh-TW.md) · MIT
+
 ## How we work
 
 - **Show the mechanism.** Each project draws what actually runs, and its docs link every step to the file and line of code that does it.
