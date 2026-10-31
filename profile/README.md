@@ -38,7 +38,7 @@ Notes on conference and YouTube talks about AI engineering, sorted into 9 catego
 A playbook for how a team of 3–4 engineers keeps turning what the team doesn't know yet into verified, shared knowledge. The questions come from real work, each lab answers one of them with a small experiment, and what the team learns becomes evals, tests and decisions. Six mechanisms keep it going: a channel for new questions, a question backlog, a 75-minute lab every two weeks, failures turned into evals, an owner and a shadow who rotate each quarter, and a quarterly learning review.
 
 - [Read the playbook](https://agentic-system-lab.github.io/agent-learning-organization/?lang=en) ([繁體中文](https://agentic-system-lab.github.io/agent-learning-organization/?lang=zh))
-- [Source on GitHub](https://github.com/Agentic-System-Lab/agent-learning-organization): README in English and [繁體中文](https://github.com/Agentic-System-Lab/agent-learning-organization/blob/main/README.zh-TW.md)
+- [Source on GitHub](https://github.com/Agentic-System-Lab/agent-learning-organization): README in English and [繁體中文](https://github.com/Agentic-System-Lab/agent-learning-organization/blob/main/README.zh-TW.md) · MIT
 
 ## How we work
 
