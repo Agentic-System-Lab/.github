@@ -18,7 +18,7 @@ Watch an agent loop run step by step, down to every token the model writes: the 
 - [Experiments to try](https://github.com/Agentic-System-Lab/agent-loop-visualizer#experiments-to-try): sampling, stop conditions, human approval, MTP, images as tokens, code in a sandbox
 - English | [繁體中文](https://github.com/Agentic-System-Lab/agent-loop-visualizer/blob/main/README.zh-TW.md) · Apache-2.0
 
-More tools are on the way: one for prototyping a new compound ai system from an idea, and one for testing a change to an existing compound ai system against your own tasks and hardware. They'll be listed here once they're public.
+More tools are on the way: one for prototyping a new agentic system from an idea, and one for testing a change to an existing agentic system against your own tasks and hardware. They'll be listed here once they're public.
 
 ## Learning together
 
