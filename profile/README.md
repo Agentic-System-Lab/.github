@@ -1,6 +1,6 @@
 # Agentic System Lab
 
-We build tools that make agent systems easier to see, build and measure.
+We build tools that make agentic systems easier to see, build and measure.
 
 An agent is a model in a loop: step after step, the model proposes an action and the harness carries it out, until it stops. A chat box shows only the question and the answer. Our projects open up the loop in between, with models that run on your own machine, so you can watch each step instead of taking it on trust.
 
