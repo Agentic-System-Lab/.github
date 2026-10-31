@@ -22,7 +22,8 @@ switch to this one). The repository is public, so every file in it is public too
 - The profile is in English; it links to the Chinese homepage and to each project's Chinese README.
 - It is GitHub-flavored Markdown, so styles and scripts are stripped. Images use absolute
   `https://raw.githubusercontent.com/Agentic-System-Lab/<public repo>/main/...` URLs, so they come from the project's
-  own repo and stay current with it.
+  own repo and stay current with it. The org logo by the title is the exception: it lives in the homepage's repo, which
+  isn't public, so it loads from `https://agentic-system-lab.github.io/assets/logo.png`.
 - Keep the voice of what is there: short, concrete sentences, with no superlatives. The intro speaks as "we"; a
   project's text tells the reader what they can watch and try.
 

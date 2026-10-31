@@ -1,4 +1,4 @@
-# Agentic System Lab
+# <img src="https://agentic-system-lab.github.io/assets/logo.png" alt="" width="32"> Agentic System Lab
 
 We build tools that make agentic systems easier to see, build and measure.
 
