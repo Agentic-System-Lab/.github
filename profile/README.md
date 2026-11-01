@@ -39,9 +39,3 @@ A playbook for how a team of 3–4 engineers keeps turning what the team doesn't
 
 - [Read the playbook](https://agentic-system-lab.github.io/agent-learning-organization/?lang=en) ([繁體中文](https://agentic-system-lab.github.io/agent-learning-organization/?lang=zh))
 - [Source on GitHub](https://github.com/Agentic-System-Lab/agent-learning-organization): README in English and [繁體中文](https://github.com/Agentic-System-Lab/agent-learning-organization/blob/main/README.zh-TW.md) · MIT
-
-## How we work
-
-- **Show the mechanism.** Each project draws what actually runs, and its docs link every step to the file and line of code that does it.
-- **Run it on your own machine.** Local models let you see every token's probability, and your data stays with you.
-- **Try it, don't just read about it.** Each project comes with experiments you can run to check an idea for yourself.
