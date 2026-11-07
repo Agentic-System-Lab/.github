@@ -15,11 +15,10 @@ switch to this one). The repository is public, so every file in it is public too
 ## The profile
 
 - `profile/README.md` says what the homepage says: [agentic-system-lab.github.io](https://agentic-system-lab.github.io/)
-  (`index.html` and `zh/index.html` in the homepage's repo, which is named after its domain). A change to a project's
-  description, the study group, the talk notes, the learning-organization playbook or "How we work" goes into the
-  profile and both pages. When a project goes public, add
-  it to all three and take it out of the "on the way" sentence. That one sentence covers every tool not public yet, so
-  remove it only when none is left.
+  (`index.html` and `zh/index.html` in the homepage's repo, which is named after its domain). A change to the intro, a
+  project's description, the study group, the talk notes or the learning-organization playbook goes into the profile
+  and both pages. When a project goes public, add it to all three and take it out of the "on the way" sentence. That
+  one sentence covers every tool not public yet, so remove it only when none is left.
 - The profile is in English; it links to the Chinese homepage and to each project's Chinese README.
 - It is GitHub-flavored Markdown, so styles and scripts are stripped. Images use absolute
   `https://raw.githubusercontent.com/Agentic-System-Lab/<public repo>/main/...` URLs, so they come from the project's
