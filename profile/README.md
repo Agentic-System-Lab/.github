@@ -18,15 +18,13 @@ Watch an agent loop run step by step, down to every token the model writes: the 
 - [Experiments to try](https://github.com/Agentic-System-Lab/agent-loop-visualizer#experiments-to-try): sampling, stop conditions, human approval, MTP, images as tokens, code in a sandbox
 - English | [繁體中文](https://github.com/Agentic-System-Lab/agent-loop-visualizer/blob/main/README.zh-TW.md) · Apache-2.0
 
-### [Harness Relay](https://github.com/Agentic-System-Lab/harness-relay)
+### <img src="https://agentic-system-lab.github.io/assets/harness-relay.svg" alt="" width="24"> [Harness Relay](https://github.com/Agentic-System-Lab/harness-relay)
 
 A group chat where Claude Code, Codex and Grok work together, on your code or any other question, and talk to each other. Before each conversation you design the team: give each agent a role such as architect, builder, reviewer or skeptic, pick its model and reasoning effort, and choose how they take turns. Or let a lead agent read your first question and design the team for you. Harness Relay drives the real `claude`, `codex` and `grok` CLIs on your machine, with their own tools and logins, and streams each agent's reasoning, plans and tool calls into the chat. Each reply lists the files that agent changed, with a diff. By default, anything beyond the permission you chose is asked in the chat.
 
 - [User guide](https://github.com/Agentic-System-Lab/harness-relay/blob/main/docs/user-guide.md): sign in to each CLI, design a team, then chat, approve and apply changes
 - [Three ways to take turns](https://github.com/Agentic-System-Lab/harness-relay/blob/main/docs/user-guide.md#conversation-rules): a roundtable, parallel answers (each in its own git worktree when agents may edit files), or a relay passed on by `@mention`
 - English | [繁體中文](https://github.com/Agentic-System-Lab/harness-relay/blob/main/README.zh-TW.md) · Apache-2.0
-
-More tools are on the way: one for prototyping a new agentic system from an idea, one for testing a change to an existing agentic system against your own tasks and hardware, and one that checks pull requests to keep requirements, code and tests linked while coding agents change them. They'll be listed here once they're public.
 
 ## Learning together
 

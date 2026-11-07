@@ -7,9 +7,9 @@ switch to this one). The repository is public, so every file in it is public too
 ## Public only
 
 - Write nothing in any file here, commit messages included, that isn't public already. Name and link only public repos
-  and public sites; a link to a private repo 404s for everyone outside the org. Tools that aren't public yet are
-  described without their names (the "More tools are on the way" line). `gh repo list Agentic-System-Lab --json
-  name,visibility` shows what is public.
+  and public sites; a link to a private repo 404s for everyone outside the org. Tools that aren't public yet aren't
+  mentioned at all, not even without their names. `gh repo list Agentic-System-Lab --json name,visibility` shows what
+  is public.
 - A push to `main` changes the org page at once. Preview first.
 
 ## The profile
@@ -17,13 +17,13 @@ switch to this one). The repository is public, so every file in it is public too
 - `profile/README.md` says what the homepage says: [agentic-system-lab.github.io](https://agentic-system-lab.github.io/)
   (`index.html` and `zh/index.html` in the homepage's repo, which is named after its domain). A change to the intro, a
   project's description, the study group, the talk notes or the learning-organization playbook goes into the profile
-  and both pages. When a project goes public, add it to all three and take it out of the "on the way" sentence. That
-  one sentence covers every tool not public yet, so remove it only when none is left.
+  and both pages. When a project goes public, add it to all three.
 - The profile is in English; it links to the Chinese homepage and to each project's Chinese README.
 - It is GitHub-flavored Markdown, so styles and scripts are stripped. Images use absolute
   `https://raw.githubusercontent.com/Agentic-System-Lab/<public repo>/main/...` URLs, so they come from the project's
-  own repo and stay current with it. The org logo by the title is the exception: it lives in the homepage's repo, which
-  isn't public, so it loads from `https://agentic-system-lab.github.io/assets/logo.png`.
+  own repo and stay current with it. Two images are exceptions and load from the homepage's site, because its repo
+  isn't public: the org logo by the title (`https://agentic-system-lab.github.io/assets/logo.png`), and Harness Relay's
+  mark (`.../assets/harness-relay.svg`), whose own repo has it only inline as its favicon.
 - Keep the voice of what is there: short, concrete sentences, with no superlatives. The intro speaks as "we"; a
   project's text tells the reader what they can watch and try.
 
