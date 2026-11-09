@@ -21,9 +21,9 @@ switch to this one). The repository is public, so every file in it is public too
 - The profile is in English; it links to the Chinese homepage and to each project's Chinese README.
 - It is GitHub-flavored Markdown, so styles and scripts are stripped. Images use absolute
   `https://raw.githubusercontent.com/Agentic-System-Lab/<public repo>/main/...` URLs, so they come from the project's
-  own repo and stay current with it. Two images are exceptions and load from the homepage's site, because its repo
-  isn't public: the org logo by the title (`https://agentic-system-lab.github.io/assets/logo.png`), and Harness Relay's
-  mark (`.../assets/harness-relay.svg`), whose own repo has it only inline as its favicon.
+  own repo and stay current with it; Harness Relay's mark is its website's favicon, `site/favicon.svg`. The org logo by
+  the title is the exception and loads from the homepage's site (`https://agentic-system-lab.github.io/assets/logo.png`),
+  because the homepage's repo isn't public.
 - Keep the voice of what is there: short, concrete sentences, with no superlatives. The intro speaks as "we"; a
   project's text tells the reader what they can watch and try.
 
